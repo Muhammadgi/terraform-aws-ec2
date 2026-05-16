@@ -126,8 +126,8 @@ Follow these steps to deploy the infrastructure:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Muhammadgi/terraform-aws-ec2
+cd terraform-aws-ec2
 ```
 
 ### 2. Add Your SSH Public Key
